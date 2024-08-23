@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    {
+        "type": "cmake",
+        "request": "launch",
+        "name": "CMake: Configure project",
+        "cmakeDebugType": "configure",
+        "clean": false,
+        "configureAll": false
+    }l
+    ]
+}
